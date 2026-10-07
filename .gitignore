@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+models/*.joblib
+scorer_results/
+
+# Assessment data (too large / company-provided) - place files in data/ manually
+data/*.csv
